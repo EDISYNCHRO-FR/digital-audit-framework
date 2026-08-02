@@ -1,32 +1,57 @@
 # Digital Audit Framework
 
-Méthode EDISYNCHRO dédiée au diagnostic numérique des TPE et PME.
+Référentiel EDISYNCHRO pour accompagner les TPE et PME dans l'amélioration de leurs usages numériques.
 
-## Objectif
+## Vision
 
-Identifier les axes d'amélioration d'une entreprise :
+Le numérique doit rester un levier de performance, de sécurité et de simplification.
 
-- organisation numérique
-- sécurité
-- outils métiers
-- automatisation
-- présence digitale
+Ce framework permet d'analyser l'existant, d'identifier les priorités et de construire un plan d'action adapté à chaque entreprise.
 
-## Méthode
+## Axes d'analyse
 
-1. Analyse de l'existant
-2. Identification des points d'amélioration
+### Organisation numérique
+
+- outils utilisés
+- pratiques internes
+- gestion des accès
+- collaboration
+
+### Cybersécurité
+
+- protection des comptes
+- sauvegardes
+- gestion des risques
+- bonnes pratiques
+
+### Processus métiers
+
+- tâches répétitives
+- flux d'information
+- opportunités d'automatisation
+
+### Présence digitale
+
+- visibilité en ligne
+- performance technique
+- expérience utilisateur
+
+## Méthode EDISYNCHRO
+
+1. Diagnostic de l'existant
+2. Analyse des besoins
 3. Priorisation des actions
-4. Suivi des résultats
+4. Mise en œuvre des améliorations
+5. Suivi des résultats
 
-## Domaines analysés
+## Structure
 
-- Infrastructure numérique
-- Sécurité informatique
-- Gestion des données
-- Processus métiers
-- Automatisation
+Ce dépôt contient des ressources méthodologiques utilisées pour structurer les diagnostics numériques.
 
 ## À propos
 
 Développé par EDISYNCHRO.
+
+🌍 https://www.edisynchro.fr
+
+📍 Puteaux, France
